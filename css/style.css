@@ -1,0 +1,360 @@
+body {
+
+	background-color: #80ffff; 
+ }
+
+
+h1 {
+
+	font-size: 37px;
+	font-family: 'Alfa Slab One', cursive;
+	text-align: center;
+ }
+
+
+h2 {
+
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	font-size: 25px;
+	letter-spacing: 4px;
+ } 
+
+
+.burgeris {
+
+	height: 450px;
+	max-width: 370px;
+	left: calc(39% - 10px);
+	top: 28%;
+	position: fixed;
+ }
+
+
+.bulkaVirsus {
+
+	height: 75px;
+	width: 370px;
+	background-color: #f8b300;
+	position: relative;		
+	border-radius: 80px 80px 0px 0px;
+ }
+
+
+.sekla1	{
+
+	height: 10px;
+	width: 35px;
+	background-color: #e6e600;
+	position: absolute;		
+	border-radius: 50%;
+	display: inline;
+	top: 20%;
+	right: 20%;
+ }
+
+
+.sekla2	{
+
+	height: 10px;
+	width: 35px;
+	background-color: #e6e600;
+	position: absolute;		
+	border-radius: 50%;
+	display: inline;
+	top: 20%;
+	right: 45%;
+ }
+
+
+.sekla3	{
+
+	height: 10px;
+	width: 35px;
+	background-color: #e6e600;
+	position: absolute;		
+	border-radius: 50%;
+	display: inline;
+	top: 20%;
+	left: 20%;
+ }
+
+	
+.sekla4	{
+
+	height: 10px;
+	width: 35px;
+	background-color: #e6e600;
+	position: absolute;		
+	border-radius: 50%;
+	display: inline;
+	top: 60%;
+	left: 30%;
+ }
+
+
+.sekla5	{
+
+	height: 10px;
+	width: 35px;
+	background-color: #e6e600;
+	position: absolute;		
+	border-radius: 50%;
+	display: inline;
+	top: 60%;
+	right: 35%;
+ }
+
+
+.TopBulkaSeselis {
+
+	height: 10px;
+	width: 370px;
+	background-color: #ca9304;
+	position: relative;	
+	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 5px;
+ }
+
+
+.VirsutineSalota {
+
+	height: 20px;
+	width: 400px;
+	background-color: #67af43;
+	position: relative;	
+	left:-4%;
+	top: 0%;
+	border-radius: 10px 10px 0px 0px;
+ }
+
+
+.VirsutineSalotaSe {
+
+	height: 5px;
+	width: 400px;
+	background-color: #569437;
+	position: relative;	
+	top: 0%;
+	left:-4%;
+	margin-bottom: 5px;
+ }
+
+
+.topSuris {
+
+	height: 30px;
+	width: 400px;
+	background-color: #f5e03d;
+	position: relative;	
+	top: 0%;
+	left:-4%;
+	border-radius: 15px 15px 7px 7px;
+ }
+
+
+.topSurisSe	{
+
+	height: 6px;
+	width: 400px;
+	background-color: #d3c139;
+	position: absolute;	
+	bottom: calc(0% - 5px);
+	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 5px;
+ }
+
+
+.KairysPamidor {
+	
+	height: 40px;
+	width: 180px;
+	background-color: #e3431e;
+	position: relative;	
+	top: 0%;
+	border-radius: 20px 20px 10px 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+ }
+
+
+.PomSeselis	{
+
+	height: 10px;
+	width: 180px;
+	background-color: #A71E00;
+	position: absolute;	
+	bottom: calc(0% - 5px);
+	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 5px;
+ }
+
+
+.DesinysPamidor	{
+
+	height: 40px;
+	width: 180px;
+	background-color: #e3431e;
+	position: absolute;	
+	top: calc(30% + 15px);
+	right:0%;
+	border-radius: 20px 20px 10px 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+ } 
+
+
+.DesPomSeselis {
+
+	height: 10px;
+	width: 180px;
+	background-color: #A71E00;
+	position: absolute;	
+	bottom: calc(0% - 5px);
+	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 5px;
+ }
+
+
+.surisas {
+
+	height: 30px;
+	width: 400px;
+	background-color: #f5e03d;
+	position: relative;	
+	top: 0%;
+	border-radius: 15px 15px 7px 7px;
+	left:-4%;
+ }
+
+
+.surisoSeselis {
+
+	height: 6px;
+	width: 400px;
+	background-color: #d3c139;
+	position: absolute;	
+	bottom: calc(0% - 5px);
+	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 5px;
+ }
+
+
+.mesa {
+
+	height:75px;
+	width: 400px;
+	background-color:#462c23 ;
+	position: relative;	
+	top: 0%;
+	border-radius: 30px 30px 30px 30px;
+	margin-top: 5px;
+	left:-4%;
+ }
+
+
+.mesosSeselis {
+	
+	height: 65px;
+	width: 400px;
+	background-color:#694032;
+	position: relative;	
+	bottom: calc(94% - 70px);
+	border-radius: 30px 30px 30px 30px;
+	margin-top: 5px;
+ }
+
+
+.apatinisSuris {
+
+	height: 30px;
+	width: 400px;
+	background-color: #f5e03d;
+	position: relative;	
+	top: 0%;
+	border-radius: 15px 15px 7px 7px;
+	margin-top: 5px;
+	left:-4%;
+ }
+
+
+.apatinioSurioSes {
+
+	height: 6px;
+	width: 400px;
+	background-color: #d3c139;
+	position: absolute;	
+	bottom: calc(0% - 5px);
+	border-radius: 0px 0px 20px 20px;
+	margin-bottom: 5px;
+ }
+
+
+.salotosSeselis	{
+
+	height: 5px;
+	width: 400px;
+	background-color: #569437;
+	position: relative;	
+	top: 0%;
+	margin-top: 5px;
+	left:-4%;
+ }
+
+
+.paskutineSalota {
+
+    height: 20px;
+	width: 400px;
+	background-color: #67af43;
+	position: relative;	
+	top: 0%;
+	border-radius: 0px 0px 10px 10px;
+	left:-4%;
+ }
+
+
+.ApBulkaSeselis	{
+
+	height: 10px;
+	width: 370px;
+	background-color: #ca9304;
+	position: absolute;	
+	border-radius: 20px 20px 0px 0px;
+	top: -10%;
+ }
+
+
+.ApatineBulka {
+
+	height: 75px;
+	width: 370px;
+	background-color: #f8b300;
+	position: absolute;	
+	bottom: calc(-5% + 10px);
+	border-radius: 0px 0px 100px 100px;
+ }
+
+
+.kaina {
+
+	width: 110px;
+	height:50px;
+	background-color: #e3431e;
+	border-radius: 10px 10px 10px 10px;
+	position: absolute;
+	transform: rotate(-25deg);
+	bottom:75px;
+	right:555px;
+ }
+
+
+.skaiciai {
+
+	font-size:25px;
+	font-family: 'Alfa Slab One', cursive;
+	color: white; 
+	position: relative;
+	text-align: center;
+	bottom:12px;
+}
